@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Saldo c1: " + c1.saldo);
         System.out.println("Saldo c2: " + c2.saldo);
 
-        c2.transferencia(20, c1);
+        c2.transferir(20, c1);
         System.out.println("Saldo c1: " + c1.saldo);
         System.out.println("Saldo c2: " + c2.saldo);
     }
