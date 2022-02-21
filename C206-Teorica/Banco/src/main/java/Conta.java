@@ -11,6 +11,7 @@ public class Conta {
     }
 
     public void transferencia(double valor, Conta destino){
+        System.out.println("Fazendo a Transferência...");
         this.saldo -= valor;
         destino.saldo += valor;
     }
