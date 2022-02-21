@@ -1,6 +1,6 @@
 public class Conta {
 
-    double saldo, limite;
+    public double saldo, limite;
 
     public void sacar(double valor){
         this.saldo += valor;
