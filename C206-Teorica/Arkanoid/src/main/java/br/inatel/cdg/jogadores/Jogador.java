@@ -9,6 +9,7 @@ public class Jogador {
 
     public Jogador(String nome) {
         this.nome = nome;
+        Bloco.criarBloco();
     }
 
     public int getPoints() {

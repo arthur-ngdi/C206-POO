@@ -4,7 +4,7 @@ public class Bloco {
     private static int numBlocos;
 
     public static void criarBloco(){
-        numBlocos++;
+        numBlocos += 10;
     }
 
     public static void excluirBloco(){
