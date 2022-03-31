@@ -9,6 +9,11 @@ public class Main {
         Jogador j2 = new Jogador("Manuzita");
 
         j1.destruir();
+        j1.destruir();
+        j1.destruir();
+        j1.destruir();
+        j2.destruir();
+        j2.destruir();
         j2.destruir();
         j2.destruir();
 

@@ -1,6 +1,5 @@
 package br.inatel.cdg.coins;
 import br.inatel.cdg.jogadores.Jogador;
-import org.jetbrains.annotations.NotNull;
 
 public class Conversor {
 

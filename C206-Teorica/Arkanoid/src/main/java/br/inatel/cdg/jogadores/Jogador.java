@@ -17,9 +17,12 @@ public class Jogador {
     }
 
     public void destruir(){
-        System.out.println("KABUUUUUM");
-        Bloco.excluirBloco();
-        this.points++;
+        if(Bloco.getNumBlocos() > 0){
+            System.out.println("KABUUUUUM");
+            Bloco.excluirBloco();
+            this.points++;
+        }
+
     }
 
 
