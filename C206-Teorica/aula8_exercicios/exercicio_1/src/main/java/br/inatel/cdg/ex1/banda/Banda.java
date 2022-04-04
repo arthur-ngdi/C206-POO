@@ -20,9 +20,7 @@ public class Banda {
 
     }
 
-    public Empresario getEmpresario() {
-        return empresario;
-    }
+
 
     public void setEmpresario(Empresario empresario) {
         this.empresario = empresario;
@@ -32,12 +30,14 @@ public class Banda {
         System.out.println("Nome da Banda: " + this.nome);
         System.out.println("Genero da Banda: " + this.genero);
         for (Musica musica : musicas) {
-            System.out.println("Musicas da Banda: " + musica);
+            if(musica != null)
+                System.out.println("Musicas da Banda: " + musica.getNome());
         }
         for (Membro membro : membros) {
-            System.out.println("Membros da Banda: " + membro);
+            if(membro != null)
+                System.out.println("Membros da Banda: " + membro.getNome());
         }
-        System.out.println("O empresário da banda é :" + getEmpresario());
+        System.out.println("O empresário da banda é: " + empresario.getNome());
     }
 
     public void addMusica(Musica musica) {
