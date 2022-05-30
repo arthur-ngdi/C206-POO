@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e36c655-577a-44d5-b1b3-8b38b650bd3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo/src/main/java/Nave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/src/main/java/Camiseta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/src/main/java/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/exemplo2_cap6/src/main/java/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/Exemplos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C206-Lab/Exemplos/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/src/main/java/Arquiteto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/src/main/java/Engenheiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/src/main/java/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-Lab/aula_herança_reescrita_polimorfismo/src/main/java/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arkanoid/src/main/java/br/inatel/cdg/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arkanoid/src/main/java/br/inatel/cdg/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arkanoid/src/main/java/br/inatel/cdg/blocos/Bloco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arkanoid/src/main/java/br/inatel/cdg/blocos/Bloco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arkanoid/src/main/java/br/inatel/cdg/coins/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arkanoid/src/main/java/br/inatel/cdg/coins/Conversor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arkanoid/src/main/java/br/inatel/cdg/jogadores/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arkanoid/src/main/java/br/inatel/cdg/jogadores/Jogador.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="271xZQmeMCDHSZUwUEtxqEP4U2R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../C206-Lab/Capitulo_6/aula_herança_reescrita_polimorfismo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e36c655-577a-44d5-b1b3-8b38b650bd3e" name="Changes" comment="" />
+      <created>1648501450314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648501450314</updated>
+      <workItem from="1648501451666" duration="1721000" />
+      <workItem from="1648744807666" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
